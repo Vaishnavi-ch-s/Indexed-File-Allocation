@@ -24,10 +24,6 @@ This is a **Java Swing-based GUI application** that simulates **Indexed File All
 - GUI Library: **Swing (javax.swing)**
 - IDE: **Visual Studio Code**
 ---
-## Files
-- `IndexedAllocationSimulation.java` → Java source code with full GUI logic
-- `README.md` → Project documentation
----
 ## Concepts Used
 - Operating System:
   - Indexed file allocation
@@ -38,7 +34,7 @@ This is a **Java Swing-based GUI application** that simulates **Indexed File All
   - Object-Oriented Design (Classes for File, Block)
 - UX:
   - Visual memory model
-  - Color-coded user feedback
+  - Color-coded data blocks and index block
 ---
 ## Author
 **Vaishnavi Chatrati**  
